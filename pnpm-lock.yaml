@@ -1,0 +1,13 @@
+lockfileVersion: 5.4
+
+specifiers:
+  '@types/musickit-js': ^1.0.3
+
+dependencies:
+  '@types/musickit-js': 1.0.3
+
+packages:
+
+  /@types/musickit-js/1.0.3:
+    resolution: {integrity: sha512-aD1hLCzigEXjJDST/Lf4mfLUw8P4E7Gr8Ma1pwtUWVCl45PGOdgCT+BYgVnBd6PFg6wN0r5UhMz2t8hPKW+K7w==}
+    dev: false

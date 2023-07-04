@@ -1,24 +1,24 @@
 {
-    "name": "@types/musickit-js",
-    "version": "1.0.5",
-    "description": "TypeScript definitions for musickit-js",
-    "homepage": "https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/musickit-js",
-    "license": "MIT",
-    "contributors": [
-        {
-            "name": "Devid Farinelli",
-            "url": "https://github.com/misterdev",
-            "githubUsername": "misterdev"
-        }
-    ],
-    "main": "",
-    "types": "index.d.ts",
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git",
-        "directory": "types/musickit-js"
-    },
-    "scripts": {},
-    "typesPublisherContentHash": "f32a53c42058a2a947d9caf77b08e22cc774a497d1b768077400197dbdb533d1",
-    "typeScriptVersion": "3.9"
+  "name": "@types/musickit-js",
+  "version": "3.0.0",
+  "description": "TypeScript definitions for musickit-js v3",
+  "homepage": "https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/musickit-js",
+  "license": "MIT",
+  "contributors": [
+    {
+      "name": "Ricardo Ambrogi",
+      "url": "https://github.com/kadobot",
+      "githubUsername": "kadobot"
+    }
+  ],
+  "main": "",
+  "types": "index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git",
+    "directory": "types/musickit-js"
+  },
+  "scripts": {},
+  "typesPublisherContentHash": "f32a53c42058a2a947d9caf77b08e22cc774a497d1b768077400197dbdb533d1",
+  "typeScriptVersion": "5.1.3"
 }

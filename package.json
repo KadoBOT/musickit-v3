@@ -1,6 +1,6 @@
 {
     "name": "@types/musickit-js",
-    "version": "1.0.3",
+    "version": "1.0.5",
     "description": "TypeScript definitions for musickit-js",
     "homepage": "https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/musickit-js",
     "license": "MIT",
@@ -19,9 +19,6 @@
         "directory": "types/musickit-js"
     },
     "scripts": {},
-    "dependencies": {
-        "@types/musickit-js": "^1.0.3"
-    },
     "typesPublisherContentHash": "f32a53c42058a2a947d9caf77b08e22cc774a497d1b768077400197dbdb533d1",
     "typeScriptVersion": "3.9"
 }

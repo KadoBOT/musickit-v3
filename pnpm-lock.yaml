@@ -1,13 +1,16 @@
-lockfileVersion: 5.4
+lockfileVersion: '6.1'
 
-specifiers:
-  '@types/musickit-js': ^1.0.3
+settings:
+  autoInstallPeers: true
+  excludeLinksFromLockfile: false
 
 dependencies:
-  '@types/musickit-js': 1.0.3
+  '@types/musickit-js':
+    specifier: ^1.0.5
+    version: 1.0.5
 
 packages:
 
-  /@types/musickit-js/1.0.3:
-    resolution: {integrity: sha512-aD1hLCzigEXjJDST/Lf4mfLUw8P4E7Gr8Ma1pwtUWVCl45PGOdgCT+BYgVnBd6PFg6wN0r5UhMz2t8hPKW+K7w==}
+  /@types/musickit-js@1.0.5:
+    resolution: {integrity: sha512-S78psg+wt+vhMACaQrA6qXAQl8pWQwY/hpK8LJQR4l62Kkm3UhTcMeV9juILZLnzOEB4CyPyUiwx+X4Q1iAvQQ==}
     dev: false

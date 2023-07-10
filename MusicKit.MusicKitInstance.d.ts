@@ -11,6 +11,7 @@ declare namespace MusicKit {
     volume: number;
     clearQueue(): Promise<Queue>;
     queue: Queue;
+    isPlaying: boolean;
     /**
      * An instance of the MusicKit API.
      */
